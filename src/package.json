@@ -45,10 +45,11 @@
 	  "url": "https://github.com/ludwiktrammer"
 	},
       {
-        "name": "Dmitry NIkolaev"
+        "name": "Dmitry NIkolaev",
+          "email": "dmni3865@gmail.com"
       }
   ],
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/one-more/nativescript-dom-plugin.git/issues"
   },
