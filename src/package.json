@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-dom",
+  "name": "nativescript-dom-plugin",
   "version": "2.0.4",
   "description": "A NativeScript module for DOM Emulation",
   "main": "dom",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.proplugins.org/proplugins/nativescript-dom.git"
+    "url": "https://github.com/one-more/nativescript-dom-plugin.git"
   },
   "keywords": [
     "NativeScript",
@@ -43,15 +43,16 @@
 	  "name": "Ludwik Trammer",
 	  "email": "ludwik@gmail.com",
 	  "url": "https://github.com/ludwiktrammer"
-	}
+	},
+      {
+        "name": "Dmitry NIkolaev"
+      }
   ],
-  "license": "Unsupported",
+  "license": "MIT",
   "bugs": {
-    "url": "https://git.proplugins.org/proplugins/nativescript-dom/issues"
+    "url": "https://github.com/one-more/nativescript-dom-plugin.git/issues"
   },
-  "homepage": "https://git.proplugins.org/proplugins/nativescript-dom",
+  "homepage": "https://github.com/one-more/nativescript-dom-plugin.git",
   "readmeFilename": "README.md",
-  "scripts": {
-    "postinstall": "node postinstall.js || echo \"ignore\""
-  }
+  "scripts": {}
 }

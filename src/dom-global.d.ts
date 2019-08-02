@@ -1,5 +1,4 @@
 declare module 'nativescript-dom-global' {
-
     import * as TNSDom from 'nativescript-dom';
 
     global {
